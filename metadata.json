@@ -1,0 +1,6 @@
+{
+  "name": "GigConnect – Freelance Gig Marketplace",
+  "description": "Modern platform connecting clients and freelancers with gig posting, proposals, workflow management, and reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
